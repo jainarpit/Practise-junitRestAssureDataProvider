@@ -8,7 +8,7 @@ import org.junit.jupiter.params.provider.MethodSource;
 import static io.restassured.RestAssured.given;
 import static org.hamcrest.Matchers.equalTo;
 
-public class hitMyAPI {
+public class SampleTest {
 
     public static Object[][] za() {
         return new Object[][]{
